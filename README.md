@@ -16,14 +16,7 @@ Here are some ideas to get you started:
 --->
 
 
----
-
-Welcome to my GitHub! I’m passionate about building scalable web applications, solving complex problems, and contributing to open-source projects.
-
-
----
-
-🛠️ Tech Stack
+#### 🛠️ Tech Stack
 
 Languages: PHP, JavaScript (TypeScript), Python, C++, SQL
 
@@ -35,7 +28,7 @@ Tools: Git, Docker, Apache, Postman, VS Code, MySQL, Tailwind
 
 ---
 
-📌 About Me
+#### 📌 About Me
 
 🚀 Currently working on: Creating a Microsoft Teams project using WebRTC for visio-calls
 
@@ -49,7 +42,7 @@ Tools: Git, Docker, Apache, Postman, VS Code, MySQL, Tailwind
 
 ---
 
-📈 GitHub Stats
+#### 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnissBoua&show_icons=true&theme=radical)
 
@@ -57,7 +50,7 @@ Tools: Git, Docker, Apache, Postman, VS Code, MySQL, Tailwind
 
 ---
 
-🌐 Let's Connect
+#### 🌐 Let's Connect
 
 🌍 Personal Website: TODO
 
