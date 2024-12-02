@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 --->
 
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Languages: PHP, JavaScript (TypeScript), SQL, Java, Python, C++
 
@@ -25,10 +25,7 @@ Frameworks: Laravel, Vue.js/Nuxt.js, Express, React/Next.js, Symfony, Spring Boo
 Tools: Git, Docker, Apache, Postman, VS Code, MySQL, Tailwind
 
 
-
----
-
-#### 📌 About Me
+## 📌 About Me
 
 🚀 Currently working on: Creating a Microsoft Teams project using WebRTC for visio-calls
 
@@ -39,24 +36,15 @@ Tools: Git, Docker, Apache, Postman, VS Code, MySQL, Tailwind
 🎮 Hobbies: Tinkering with 3D tech (OpenGL, WebGPU).
 
 
-
----
-
-#### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnissBoua&show_icons=true&theme=radical)
 
 
 
----
-
-#### 🌐 Let's Connect
+## 🌐 Let's Connect
 
 🌍 Personal Website: https://novelizenow.anisse-bouainbi.fr/
 
 💼 LinkedIn: https://www.linkedin.com/in/anisse-bouainbi/
-
-
-
----
 
