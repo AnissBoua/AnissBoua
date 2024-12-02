@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 #### 🛠️ Tech Stack
 
-Languages: PHP, JavaScript (TypeScript), Python, C++, SQL
+Languages: PHP, JavaScript (TypeScript), SQL, Java, Python, C++
 
 Frameworks: Laravel, Vue.js/Nuxt.js, Express, React/Next.js, Symfony, Spring Boot.
 
