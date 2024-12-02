@@ -38,7 +38,7 @@ Tools: Git, Docker, Apache, Postman, VS Code, MySQL, Tailwind
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnissBoua&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnissBoua&show_icons=true&theme=tokyonight)
 
 
 
