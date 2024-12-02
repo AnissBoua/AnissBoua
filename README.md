@@ -52,9 +52,9 @@ Tools: Git, Docker, Apache, Postman, VS Code, MySQL, Tailwind
 
 #### 🌐 Let's Connect
 
-🌍 Personal Website: TODO
+🌍 Personal Website: https://novelizenow.anisse-bouainbi.fr/
 
-💼 LinkedIn: TODO
+💼 LinkedIn: https://www.linkedin.com/in/anisse-bouainbi/
 
 
 
